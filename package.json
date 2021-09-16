@@ -1,0 +1,17 @@
+{
+  "name": "discord-activities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index",
+  "scripts": {
+    "test": ""
+  },
+  "author": "AkiaCode",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.9.1"
+  }
+}
